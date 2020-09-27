@@ -16,6 +16,9 @@ class TabellerEnhetsTester {
 		Tabeller.skrivUt(tabell1);
 		Tabeller.skrivUt(tabell2);
 		Tabeller.skrivUt(tabell3);
+		
+		
+		
 	}
 
 	@Test
